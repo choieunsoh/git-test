@@ -38,5 +38,10 @@ git checkout <commit-id> <filename>
 # remote repo
 git remote add origin <url>
 
+# push
+git push -u origin main
+
+# clone
+git clone <url>
 
 ```
