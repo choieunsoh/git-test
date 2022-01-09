@@ -45,3 +45,15 @@ git push -u origin main
 git clone <url>
 
 ```
+
+# Node.js
+
+```bash
+# version
+node -v
+npm -v
+
+# init
+npm init
+
+```
