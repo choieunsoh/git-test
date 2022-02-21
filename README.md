@@ -4,6 +4,17 @@
 
 This repo is a part of self-learning at Coursera. I learned the basics of Git, Node and NPM commands.
 
+### Git Resources
+
+For good tutorials and ressources for Git and GitHub, I'd suggest the following:
+
+- The [Pro-Git book](http://git-scm.com/book/en/v2) by Scott Chacon available on the git website.
+- The [Try Git website available on GitHub made by CodeSchool](https://docs.github.com/en/get-started/quickstart/set-up-git)
+- Or you can try the [Git Immersion](https://gitimmersion.com/)
+- If you're still hungry after this, there is a good list of other [git stuff](https://www.webfx.com/blog/web-design/git-tutorials-beginners/) here.
+
+[ref](https://stackoverflow.com/questions/18624255/block-other-users-on-github-from-editing-my-repos-without-paying-for-private-rep)
+
 # git
 
 ```bash
